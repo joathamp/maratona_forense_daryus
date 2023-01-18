@@ -44,8 +44,8 @@ Criação do Laboratório
 Para ter acesso aos dumps do **CTF** deste laboratorio é necessário fazer o `git clone` desse repositório e realizar a descompactacao dos arquivos, conforme abaixo:
 
 ```bash
-git clone https://github.com/joathamp/maratona_forense.git
-cd forense_impacta/
+git clone https://github.com/joathamp/maratona_forense_daryus.git
+cd maratona_forense_daryus/
 7z x MemLabs-Lab3.7z
 7z x MemLabs-Lab4.7z
 gunzip attack-trace.pcap_.gz 
