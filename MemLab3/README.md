@@ -24,6 +24,8 @@ Sugiro que todos usem [**The Volatility Framework**](https://github.com/volatili
 
 > **Nota**: os usuários do Windows podem baixar o arquivo executável [aqui](https://www.volatilityfoundation.org/26).
 
+> **Nota**: os usuários do Windows podem baixar o arquivo executável Workbench [aqui](https://www.osforensics.com/tools/volatility-workbench.html).
+
 Como esses laboratórios são bastante introdutórios, não há necessidade de instalar mais ferramentas. No entanto, se o usuário desejar, pode instalar muitas outras ferramentas forenses.
 
 O sistema operacional preferido seria o Linux. No entanto, você também pode usar Windows (WSL) ou macOS.
